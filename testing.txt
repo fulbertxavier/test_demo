@@ -1,0 +1,37 @@
+Bin Location  C:\Program Files\Java\jdk-16.0.1\bin
+Environment locaion C:\Program Files\Java\jdk-16.0.1
+Environment name JAVA_HOME
+
+
+
+Commad
+
+java -version
+javac -version
+echo %JAVA_HOME%
+
+
+
+MAVEN 
+Environment name M2_HOME
+Environment location C:\apache-maven-3.8.1
+MAVEN_HOME
+C:\apache-maven-3.8.1\bin
+
+Command
+mvn -version
+
+GIT 
+github user name: fulbertxavier  password: 10April1990!
+command
+git --version
+git help config
+git config --help
+mkdir test ----> crate a direcory
+cd test
+git init -----> to create a folder
+git status
+git add filename
+git commit -m
+git config --global user.username fulbertxavier
+
